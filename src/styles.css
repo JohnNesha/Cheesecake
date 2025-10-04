@@ -1,0 +1,30 @@
+body {
+  background: pink;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.homepage-paragragh {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.page-link {
+  margin: 20px;
+}
+
+.contact-paragraph {
+  text-align: center;
+}
+
+.cheesecake-pic {
+  text-align: center;
+  max-width: 100%;
+}
